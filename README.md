@@ -44,3 +44,8 @@ Press CTRL + C
 ```
 
 ## Output
+
+![Output1](https://github.com/bhatiakanishk/Fetch_SiteRelaibility/assets/90340546/fe2de996-8a91-43b1-bd5a-b3d29e247a13)
+
+![Output2](https://github.com/bhatiakanishk/Fetch_SiteRelaibility/assets/90340546/a1d5a319-e5f5-4f49-9450-464b1a0ed68f)
+
