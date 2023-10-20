@@ -45,7 +45,6 @@ Press CTRL + C
 
 ## Output
 
-![Output1](https://github.com/bhatiakanishk/Fetch_SiteRelaibility/assets/90340546/fe2de996-8a91-43b1-bd5a-b3d29e247a13)
+![Output1](https://github.com/bhatiakanishk/Fetch_SiteReliability/assets/90340546/ee7d152a-26ba-4c22-a1e1-15d8973b76bf)
 
-![Output2](https://github.com/bhatiakanishk/Fetch_SiteRelaibility/assets/90340546/a1d5a319-e5f5-4f49-9450-464b1a0ed68f)
-
+![Output2](https://github.com/bhatiakanishk/Fetch_SiteReliability/assets/90340546/0b929608-7cdd-4b99-997b-05d12415b322)
